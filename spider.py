@@ -327,7 +327,7 @@ class TianyanchaSpider(object):
 
 if __name__ == '__main__':
     spider = TianyanchaSpider()
-    spider.login('18298892447', 'abc123abcd1234')
+    spider.login(phone, pwd)
     company_search_list = spider.search_company('云南白药集团股份有限公司')
     print(company_search_list)
     # people_data = spider.get_senior_people(company_search_list[0]["company_id"])
