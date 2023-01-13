@@ -108,7 +108,7 @@
 
 ### 2. 数据库E-R图
 
-![tianyanchadb](https://blog.bglb.work/img/20210114230750.png?x-oss-process=style/blog_img)
+![image](https://user-images.githubusercontent.com/54814510/212250010-e6032506-3f23-44e9-8749-8ee6fe596f4c.png)
 
 
 
@@ -138,25 +138,24 @@
 
 ### 1. 运行截图
 
-![image-20210115035817689](https://blog.bglb.work/img/20210115035817.png?x-oss-process=style/blog_img)
+![image](https://user-images.githubusercontent.com/54814510/212249773-4fd469f4-37a8-4131-805e-1c3eac32683c.png)
 
 
 
 ### 2. csv文件截图
 
-![image-20210115042149538](https://blog.bglb.work/img/20210115042149.png?x-oss-process=style/blog_img)
+![image](https://user-images.githubusercontent.com/54814510/212250046-f187c6b3-37a2-4b8e-a436-cfbe538057dd.png)
 
 
 
 ### 3. 数据库截图
 
-![image-20210115042322257](https://blog.bglb.work/img/20210115042322.png?x-oss-process=style/blog_img)
 
-![image-20210115042339227](https://blog.bglb.work/img/20210115042339.png?x-oss-process=style/blog_img)
+![image](https://user-images.githubusercontent.com/54814510/212250059-37a0b39f-15b0-4f55-bd52-7a32c959b158.png)
 
-![image-20210115042355124](https://blog.bglb.work/img/20210115042355.png?x-oss-process=style/blog_img)
-
-![image-20210115042408204](https://blog.bglb.work/img/20210115042408.png?x-oss-process=style/blog_img)
+![image](https://user-images.githubusercontent.com/54814510/212250078-d5e3dfeb-c878-4fd8-ae83-2cc5e169c2d3.png)
+![image](https://user-images.githubusercontent.com/54814510/212250094-a0e99428-0ede-4abe-ba48-782668f2bf13.png)
+![image](https://user-images.githubusercontent.com/54814510/212250135-f6b05bf3-a7eb-4858-a5bf-6942981e787b.png)
 
 ## 四、数据呈现
 
@@ -169,3 +168,7 @@
 
 本项目**仅仅只用与面试**（某面试）若用于其他用途，请自行承担相关责任！！
 
+
+## 六、可用性说明
+ 1. 当前登录功能可用
+ 2. 网页解析功能已失效（天眼查网站网页结构变化 现有代码无法解析）
